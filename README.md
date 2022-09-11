@@ -1,0 +1,2 @@
+# SHOPRITE
+How Shoprite works
